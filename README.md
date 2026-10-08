@@ -10,7 +10,7 @@ and vendor performance using the AdventureWorks 2019 database.
 ![Homepage](powerbi/homepage.png)
 ![Overview](powerbi/overview.png)
 ![Vendor Performance](powerbi/vendor-performance.png)
-![Product & Purchase Analysis](powerbi/Product%26Purchase%20Analysis.png)
+![Product & Purchase Analysis](powerbi/product-purchase.png)
 
 ---
 
