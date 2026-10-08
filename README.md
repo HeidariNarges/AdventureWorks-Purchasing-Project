@@ -3,7 +3,14 @@
 An end-to-end Business Intelligence project analyzing purchasing 
 and vendor performance using the AdventureWorks 2019 database.
 
-![Dashboard Preview](powerbi/dashboard.png)
+---
+
+## Dashboard Preview
+
+![Homepage](powerbi/homepage.png)
+![Overview](powerbi/overview.png)
+![Vendor Performance](powerbi/vendor-performance.png)
+![Product & Purchase Analysis](powerbi/Product%26Purchase%20Analysis.png)
 
 ---
 
@@ -45,7 +52,7 @@ Adding "Low-frequency?" Gateway + two paths:
 
 ## How to Run
 1. Run `sql/*.sql` files in SQL Server
-2. Open `powerbi/adventureworks.pbix` in Power BI
+2. Open `powerbi/AW-VendorsPerformance.pbix` in Power BI
 3. View BPMN models in `/bpm`
 4. View presentations in `/docs`
 
@@ -72,4 +79,5 @@ Adding "Low-frequency?" Gateway + two paths:
 - **Email**: H.narsis85@gmail.com
 
 I'm open to **freelance Power BI & Data Analytics projects**.
+
 
